@@ -13,6 +13,8 @@
 		78237471273A8CC500222BAD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7823746F273A8CC500222BAD /* Main.storyboard */; };
 		78237473273A8CC600222BAD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 78237472273A8CC600222BAD /* Assets.xcassets */; };
 		78237476273A8CC600222BAD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 78237474273A8CC600222BAD /* LaunchScreen.storyboard */; };
+		7823747E273A8FB200222BAD /* 45088086-940Smiley_Harmonie_Thinkstock.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7823747D273A8FB200222BAD /* 45088086-940Smiley_Harmonie_Thinkstock.jpg */; };
+		78237480273A8FBA00222BAD /* GameLogik.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7823747F273A8FBA00222BAD /* GameLogik.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		78237472273A8CC600222BAD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		78237475273A8CC600222BAD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		78237477273A8CC600222BAD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7823747D273A8FB200222BAD /* 45088086-940Smiley_Harmonie_Thinkstock.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "45088086-940Smiley_Harmonie_Thinkstock.jpg"; sourceTree = "<group>"; };
+		7823747F273A8FBA00222BAD /* GameLogik.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameLogik.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +60,8 @@
 		78237468273A8CC500222BAD /* NumberGuess */ = {
 			isa = PBXGroup;
 			children = (
+				7823747F273A8FBA00222BAD /* GameLogik.swift */,
+				7823747D273A8FB200222BAD /* 45088086-940Smiley_Harmonie_Thinkstock.jpg */,
 				78237469273A8CC500222BAD /* AppDelegate.swift */,
 				7823746B273A8CC500222BAD /* SceneDelegate.swift */,
 				7823746D273A8CC500222BAD /* ViewController.swift */,
@@ -124,6 +130,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7823747E273A8FB200222BAD /* 45088086-940Smiley_Harmonie_Thinkstock.jpg in Resources */,
 				78237476273A8CC600222BAD /* LaunchScreen.storyboard in Resources */,
 				78237473273A8CC600222BAD /* Assets.xcassets in Resources */,
 				78237471273A8CC500222BAD /* Main.storyboard in Resources */,
@@ -139,6 +146,7 @@
 			files = (
 				7823746E273A8CC500222BAD /* ViewController.swift in Sources */,
 				7823746A273A8CC500222BAD /* AppDelegate.swift in Sources */,
+				78237480273A8FBA00222BAD /* GameLogik.swift in Sources */,
 				7823746C273A8CC500222BAD /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

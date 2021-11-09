@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  NumberGuess
+//  Hello world
 //
-//  Created by Halilovic Ema on 09.11.21.
+//  Created by Pouget Marcel on 21.09.21.
 //
 
 import UIKit
